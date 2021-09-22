@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Development Game Plan:
+- [x] create project
+- [ ] mock out card
+- [ ] hook up fetch call
+- [ ] display data on mocked card
+- [ ] componetize card
+- [ ] display and style 5 day forecast
+- [ ] revel in your success
+- [ ] just kidding, why not make it dynamic with a user input form?
