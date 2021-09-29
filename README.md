@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Development Game Plan:
 - [x] create project
 - [x] mock out card
-- [ ] hook up API call
+- [x] hook up API call
 - [ ] display data on mocked card
 - [ ] componetize card
 - [ ] display and style 5 day forecast
